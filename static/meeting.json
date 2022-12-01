@@ -1,0 +1,242 @@
+{"sections":[{
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:00:00",
+	  "text":"Okay. I'm sharing my screen. Okay, I think there has hasn't happened much since yesterday. Maybe Farbod if you go first because I think you have something to report."
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:00:20",
+	  "text":"Okay, so we prepared the change for DCIC A side and option B. Loujith and I we worked on it yesterday. I’m going... after this meeting I’m going to submit the ticket, submit the change but Loujith is on sick leave today so, Uwe, I will ask you to just approve the change. Yeah, it's a generic runbook so, yeah, you really don’t need to... Yeah, ok."
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:00:51",
+	  "text":"Okay. Yeah, then we should be good and we will reschedule it for AP-JP time zone because that would match both Loujith’s availability and mine. For me it will be like 5 or 6 a.m., 5 a.m. I think but still we can both attend."
+	  }
+	  ],
+   "highlight": "The change for DCIC A side option B was prepared and will be rescheduled for AP-JP time zone."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:01:17",
+	  "text":"Okay. Okay. Once you have raised the CR let me know and then I'll send a note to John that he is aware of what we are planning. Yeah, and He can do some magic in the background. Okay, I had a call with with John and Chris yesterday because I figured out that the odds according to our plan B would need to raise the changes for Dubai Moscow and Colorado Springs because that also would need to reach CAB next week."
+	  }
+	  ],
+   "highlight": "Once the CR will be raised, Katharina will inform John."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:01:51",
+	  "text":"So I've spoken to Chris and he said yeah, okay, he understands that this is quite a challenge and that we won't be able to do that in that time frame, so he asked me to talk to John that John can talk to the LoBs before we actually raised the CR so that they are informed that they are aware of what we are doing and then he can talk, he can go to them, talk to them and they can inform their external customers."
+	  }
+	  ],
+   "highlight": "John needs to talk with the LoBs before we raise the CR so they are aware of what we are doing and inform their customers."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:02:18",
+	  "text":"So that's the one step to mitigate or to take a bit the pressure out of getting to CAB next week. And there's a second thing which I learned yesterday. We have to align with the colleagues from the DIBS implementation side because they initially plan to do to their DIBS implementation outside of green windows, but they also learned that they have have to stick to green windows."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:02:50",
+	  "text":"So if we look at our timeline and then check the timeline from the DIBS team, we will collide starting February. Because in February we have the first three: the Dubai, Moscow and Colorado Springs is already in the green window and that will go on in March. We are hitting a green window and so on so I will have a meeting with Nicolas, Mathus and is another lady from Accenture."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:03:19",
+	  "text":"I'll have a meeting with them on Monday and we go through our plan and their plan and we try to figure out how we can solve it because It'll be a two folded issue, so to say, because the one side is a resource topic because we need to have a lot of resources ready to do four sites in one window and also the DIBS team would require to have the resources."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:03:46",
+	  "text":"So that's why we need to align and the other thing is we shouldn't touch the same regions in the same window. That's also something. So I'll check with them and, yeah, we’ll see. I expect some change in our plan here. I think we will not be able to stick to it. That's my my gut feeling but I'll verify it on Monday with them and see what their plans are, when they will be ready to reach out to the different locations, then we'll see."
+	  }
+	  ],
+   "highlight": "We have to align the changes with the colleagues from DIBS. Katharina will have a meeting on Monday with Nicolas, Mathus and another lady from Accenture about this topic. They will discuss both the resources issue and the fact that we shouldn't touch the same regions in the same window."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:04:21",
+	  "text":"Okay, so that's that's just an update for you. Okay. Yeah regarding the KT sessions, Farbod we've been in touch yesterday and also Loujith. Chris agreed that we can change the timing for the KT sessions. So next week, there will be no KT sessions. That's the one thing and once the new series of KT sessions will start which is I think calendar week, is it three? I think three the next series will start, you should have an attendee list."
+	  }
+	  ],
+   "highlight": "Chris agreed that we can change the timing for the KT sessions."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:04:55",
+	  "text":"So that means make a screenshot of the attendees at the beginning of the meeting so that we have the names ready. It's not about controlling the internal team, it's more like checking who from the Accenture side is participating in the training because as you mentioned yesterday Farbod, there was, the number of attendees was was going down quite significantly."
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:05:20",
+	  "text":"So I know only Ashish from Accenture attended all the meetings and except Ashish, other people attended maybe two or three meetings at most, yeah."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:05:37",
+	  "text":"Yeah. I took the names yesterday. I checked the recordings and I made a note of the names. So I already sent the email to Chris with the names in there. But what we can see is I think in the beginning we had like 11 participants from Accenture and in the end the last session, session number 5, it was only three attendees and this is not what we expect from Accenture."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:05:59",
+	  "text":"They need, they need to be there. They need to understand and learn what you're doing because they have to make sure that they can operate stuff afterwards."
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:06:09",
+	  "text":"Yeah."
+	  }
+	  ],
+   "highlight": "For the next KT sessions, we should save the list of attendees from Accenture. It has been observed that less people from their side are attending and we are not happy about that."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:06:10",
+	  "text":"Okay good then another thing I learned yesterday. I'm not sure if you are already aware of it. I heard that Tomas is required to support One Strike. So we'll see what that means for our project. Did you already hear something on that topic?"
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:06:40",
+	  "text":"So, probably for auditing I will be leading the topic instead of Tomas. For Core 2 I think it will be somehow all of us like Uwe, me, Loujith, you know. I think the plan is something like that. But I need to organize a meeting with Tomas and he has to hand over some topics."
+	  }
+	  ],
+   "highlight": "Thomas is required to support One Strike so he will be less involved in our project. Farbod will check with Tomas on the status of his activities."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:07:10",
+	  "text":"Yeah. Okay, because if I look at the the playbooks we still need to finish the ones which I select right now. These are the ones which we haven't started really the work. Well not, that's not exactly true. But I think for the GMP, ACI, GMP on ACI that one there's a lot to do but I understand that we have some preparation work already."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:07:20",
+	  "text":"Yeah"
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:07:30",
+	  "text":"Completed."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:07:40",
+	  "text":"I think for the Core 2, the playbooks are just tuning and tweaking them to these specific sites."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:07:47",
+	  "text":"Yeah, okay. But tuning and tweaking to these sites. I still see some stuff in here, which has not been started yet the infra tenant, the management tenant, the fabric wide settings. I think they are not that critical as of now, but but still it's on our list to be completed."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:08:00",
+	  "text":"Mhm."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:08:10",
+	  "text":"Maybe Farbod if you take that and check with Tomas so that we have a clear understanding what we still need to do."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:08:25",
+	  "text":"I know that at least for the GMP on ACI Volker should be capable in supporting if he has time, but he did a lot of work on the CC management tenant and I understand this is kind of adjusting of the work being done on the CC management tenant and adjusted to the GMP tenant so that that should work out. Yeah."
+	  }
+	  ],
+   "highlight": "Playbooks for Core 2 need to be prepared. Katharina asked Farbod to check with Tomas regarding what needs to be done."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Uwe",
+	  "time":"0:08:48",
+	  "text":"What we always have to keep in mind is that many parts of One Strike are relying on Core 2.0 setup."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:08:55",
+	  "text":"Yep, exactly."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:08:58",
+	  "text":"When we think about Neo Plus 1 and and stuff like that, yeah, customers need the Core 2.0 set up with all the possible features which were coming up which will coming up and so we can't divide those projects or separate those projects in a, yeah, in a too strict way."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:09:20",
+	  "text":"So there are prerequisite and dependencies."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:09:25",
+	  "text":"So what do you mean with that? I understand what you are..."
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:09:28",
+	  "text":"Tomas, Tomas... the conclusion is that Tomas needs to I think for One Strike also fulfil the task here in in Renaissance and Core 2.0. This is what I what I think so he's not away, he’s not off the project, but he maybe shift his priorities but in the end he I think needs to fulfill that Renaissance and Core 2.0 stuff to work meaningful in One Strike. That's, that's what I meant."
+	  }
+	  ],
+   "highlight": "Uwe highlighted that many parts of One Strike are relying on the Core 2.0 setup."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:10:03",
+	  "text":"Yeah. Okay, we’ll see I have no idea what other tasks they put on his desk. So I I agree what you're saying. Actually, I have to same topic because I am nominated as project manager for Neo Plus 1. This is what happens in a life of the project manager: be at the wrong time be at the wrong place then your name is coming up."
+	  }
+	  ],
+   "highlight": "Katharina has been nominated project manager of the Neo Plus 1 project."
+	  },
+	  {
+   "entries":[
+      {
+	  "speaker":"Katharina",
+	  "time":"0:10:32",
+	  "text":"Yeah, so I have the same issue here. Okay, nevertheless. I think next week we will have our planning session where we have a review session which will be I guess a short one because there was not that much which was done which is okay and then we have the planning session next week so we can have a look at the next sprint and see what we are doing there. I think basically Focus will from now on be the Core 2.0 rollout. We have to have a clear understanding when we when we are supposed to do what. Okay. Sorry. I was talking a lot today. That's actually not the intention of the daily scrum. Anything from your side you wanna highlight?"
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:11:15",
+	  "text":"No, nothing from my side."
+	  },
+	  {
+	  "speaker":"Katharina",
+	  "time":"0:11:25",
+	  "text":"Okay, then okay. If nothing else then let’s close the call and I wish you a very relaxed weekend. We talk to each other on Monday. Bye!"
+	  },
+	  {
+	  "speaker":"Uwe",
+	  "time":"0:11:25",
+	  "text":"Thanks. Bye!"
+	  },
+	  {
+	  "speaker":"Farbod",
+	  "time":"0:11:39",
+	  "text":"Bye!"
+	  }
+	  ],
+   "highlight": "Next week we will have our review and planning sessions. Meeting ended."
+	  }
+	  ]
+}

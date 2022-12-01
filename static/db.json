@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+      "meetings": [
+        {
+          "date": "11/11/2021",
+          "duration:": "02:01:12",
+          "attendees": ["Mark", "Olga", "Ryan"],
+          "keywords": ["new client", "overseas", "budget", "quality"],
+          "file": "./meeting.json"
+        },
+        {
+          "date": "13/03/2021",
+          "duration:": "01:23:55",
+          "attendees": ["Mark", "Richard", "Sam"],
+          "keywords": ["quarter", "offshore", "clean up", "earth"],
+          "file": "./meeting.json"
+        }
+      ],
+      "chats": [],
+      "emails": []
+    },
+    {
+      "name": "Project Two",
+      "description": "lorem ipsum dodi doi doi didi orem ipsum do psum dolor sit amet lorem ipsum",
+      "meetings": [],
+      "chats": [],
+      "emails": []
+    }
+  ]
+}
